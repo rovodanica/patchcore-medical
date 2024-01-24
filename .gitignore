@@ -2,3 +2,5 @@
 __pycache__/
 LabletAnomaly.egg-info/
 data/
+.tmp.driveupload/*
+.tmp.drivedownload/*
