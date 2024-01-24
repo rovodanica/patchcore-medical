@@ -1,3 +1,12 @@
+# PatchCore on brain MRIs
+This repo contains a modified version of PatchCore ( https://github.com/amazon-science/patchcore-inspection/tree/fcaa92f124fb1ad74a7acf56726decd4b27cbcad ) applied (but not optimized!) on brain MRI scans. 
+Furthermore, I solve some of the known issues, such as a deprecated --log-online.
+
+
+
+
+This work is the deliverable in the Seminar Unsupervised Anomaly Segmentation for Medical Imaging from compai-lab at the Technical University of Munich. 
+Details of PatchCore in the following --> 
 # Towards Total Recall in Industrial Anomaly Detection
 
 This repository contains the implementation for `PatchCore` as proposed in Roth et al. (2021), <https://arxiv.org/abs/2106.08265>.
